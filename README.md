@@ -88,7 +88,7 @@ from sklearn.tree import DecisionTreeClassifier
 # Create and train the model
 model = DecisionTreeClassifier()
 model.fit(x_train, y_train)
-
+```
 ---
 
 ### ✅ Why Decision Tree?
